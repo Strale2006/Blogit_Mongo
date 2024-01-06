@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blogit-png{
+    width: 80px;
+    height: 80px;
+}
